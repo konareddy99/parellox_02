@@ -1,0 +1,48 @@
+
+
+.Container1 {
+  background-image: url('../images/image1\ \(1\).jpg');  
+  background-position: center, top left, bottom right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+
+
+
+.BackImg-2 {
+  background-image: url('../images/image2\ \(1\).jpg');  
+  background-position: center, top left, bottom right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.BackImg-3 {
+  background-image: url('../images/image3\ \(1\).jpg');  
+  background-position: center, top left, bottom right;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.card-1 {
+  background-color:rgb(49, 35, 35);
+  height: 90px;
+  width: 400px;
+}
+
+h1,
+h3 {
+  letter-spacing: 4px;
+}
+
+.card-color{
+  background-color: rgb(116, 99, 99);
+  height: 300px;
+  
+}
